@@ -33,7 +33,7 @@ First, comparing the continuous distributions in tumor size across the populatio
 ![CTabGAN tumor size bc hist](https://github.com/user-attachments/assets/916902da-a724-400b-869a-5abab45c5abe)
 
 Second, comparing the continuous distributions in regional node positive, the number of regional lymph nodes extracted and examined by the pathologist and were found to contain metastases, across the population:
-![CTabGAN regional node positive bc hist](https://github.com/user-attachments/assets/e48300f0-eec5-4e87-bc2a-ffeca487b86e)
+![CTabGAN_regional_node_positive_bc_hist](https://github.com/user-attachments/assets/d782da5e-cf7e-49e3-8593-8a2a90f51393)
 
 Third, comparing the differences between the correlation matrices:
 ![CTabGAN bc corr table less col](https://github.com/user-attachments/assets/61dd66fa-6cd3-4f48-86d6-7883e4d0263f)
@@ -44,5 +44,4 @@ First, comparing the continuous distributions in tumor size with the "other" rac
 ![race other conditional sample tumor size bc hist](https://github.com/user-attachments/assets/5cb857b5-f1fe-40c6-8a1e-00fe3674ec9d)
 
 Second, comparing the continuous distributions in regional node positive with the "other" race population:
-![race other conditional sample regional node positive bc hist](https://github.com/user-attachments/assets/dec867ca-f431-4270-b38e-d8e0030b8396)
-
+![race_other_conditional_sample_regional_node_positive_bc_hist](https://github.com/user-attachments/assets/400f1cea-9dfa-4d94-8544-4bc130cbc038)
