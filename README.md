@@ -40,9 +40,9 @@ Third, comparing the differences between the correlation matrices:
 
 Finally, as a proof of concept of the ability to sample our synthetic data generation model to produce data on specific groups within a population, we conditionally generated 1000 samples of people with race "other", who represented 8% of the total population. These 1000 samples are compared to all the people in the dataset who had race "other". 
 
-First, comparing the continuous distributions in tumor size with the "other: race population
+First, comparing the continuous distributions in tumor size with the "other" race population:
 ![race other conditional sample tumor size bc hist](https://github.com/user-attachments/assets/5cb857b5-f1fe-40c6-8a1e-00fe3674ec9d)
 
-Second, comparing the continuous distributions in regional node positive with the "other" race population
+Second, comparing the continuous distributions in regional node positive with the "other" race population:
 ![race other conditional sample regional node positive bc hist](https://github.com/user-attachments/assets/dec867ca-f431-4270-b38e-d8e0030b8396)
 
